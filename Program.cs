@@ -26,19 +26,6 @@ namespace InheritanceC
             ImagePost imagepost2 = new ImagePost("Hello this is my first imagepost", "Seth Moffett", "https://www.imageposts.com/post1", true);
             Console.WriteLine(imagepost2);
 
-            //Creating a videopost
-            VideoPost videopost1 = new VideoPost("Cool Video", "Seth Moffett", "Https://video/coolvid", 5, true);
-            Console.WriteLine(videopost1.ToString()); 
-
-            //Play video and pause if you press a key
-            videopost1.Play();
-            Console.WriteLine("Press any key to pause the video");
-            Console.ReadKey();
-            videopost1.Stop();
-
-
-            
-
             Console.ReadKey();
 
 

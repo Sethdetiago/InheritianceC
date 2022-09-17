@@ -26,14 +26,7 @@ namespace InheritanceC
 
         public override string ToString()
         {
-            if (IsPublic)
-            {
-                return string.Format("{0} - {1} by {2} URL: {3}", ID, Title, SendByUserName, ImageURL);
-            }
-            else
-            {
-                return "Sorry this post is Private";
-            }
+            return string.Format("{0} - {1} by {2} URL: {3}", ID, Title, SendByUserName, ImageURL);
         }
 
 

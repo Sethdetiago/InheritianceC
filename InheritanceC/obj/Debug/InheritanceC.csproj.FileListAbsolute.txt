@@ -6,3 +6,11 @@ C:\Users\Seth Moffett\source\repos\InheritanceC\InheritanceC\obj\Debug\Inheritan
 C:\Users\Seth Moffett\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.csproj.CoreCompileInputs.cache
 C:\Users\Seth Moffett\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.exe
 C:\Users\Seth Moffett\source\repos\InheritanceC\InheritanceC\obj\Debug\InheritanceC.pdb
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\bin\Debug\InheritanceC.exe.config
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\bin\Debug\InheritanceC.exe
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\bin\Debug\InheritanceC.pdb
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\obj\Debug\InheritanceC.csproj.AssemblyReference.cache
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\obj\Debug\InheritanceC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\obj\Debug\InheritanceC.csproj.CoreCompileInputs.cache
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\obj\Debug\InheritanceC.exe
+C:\Users\Seth Moffett\source\repos\InheritanceC\InheritianceC\InheritanceC\obj\Debug\InheritanceC.pdb
